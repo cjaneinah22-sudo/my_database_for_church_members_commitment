@@ -1,6 +1,6 @@
 # my_database_for_church_members_commitment
-I created database for church members personal information and their amount of commitment for church building. This is a real-world data.
-I created tables for commitment and church members
+<br>I created database for church members personal information and their amount of commitment for church building. This is a real-world data<br>
+<br>I created tables for commitment and church members<br>
 I group members according to their ministry, and age classifications.
 I used filtering to retrieve the highest and lowest amount of commitment contributed by each church members 
 Joining two tables to identify each amount of commitment
